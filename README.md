@@ -1,1 +1,1 @@
-# RustLocationServiceProxy
+# rust-mock-geojson-endpoint
